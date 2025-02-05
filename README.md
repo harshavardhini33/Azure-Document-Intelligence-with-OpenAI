@@ -76,3 +76,6 @@ Ensuring patient data security and regulatory compliance is key:
 
 ### Custom Plans for Large Healthcare Networks
 - Larger healthcare facilities with high data processing needs can benefit from custom, enterprise-level plans.
+
+  ## Youtube Link
+  https://youtu.be/UdZpP_P6HCQ?si=ytIVIV7PKRQx_req
